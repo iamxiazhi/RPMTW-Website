@@ -54,7 +54,7 @@
       <section class="flex flex-item-center flex-down">
         <h1 class="sectionTitle">功能介紹</h1>
         <h2>宇宙通訊系統：緊密相連</h2>
-        <h3>宇宙通訊與Discord和遊戲內串聯，隨時隨地都可聊天！</h3>
+        <h3>宇宙通訊與Discord（暫未開放）和遊戲內串聯，隨時隨地都可聊天！</h3>
         <img
           class="showEl"
           src="@/assets/images/RPMTWUpdateMod/Chat.png"
@@ -68,7 +68,7 @@
         <h2>機器翻譯與原文顯示</h2>
         <h3>
           想要查詢該物品的原文? 剛好遇到沒有人工翻譯的內容? 全交給 AI
-          吧！讓你的遊戲真正全中文化
+          吧！讓你的遊戲真正全中文化！
         </h3>
         <img
           class="showEl"
@@ -76,7 +76,7 @@
           alt=""
         />
         <h2>以光速全自動更新翻譯包</h2>
-        <h3>超快速更新翻譯包，僅需2秒鐘，不用手動下載安裝</h3>
+        <h3>超快速更新翻譯包，僅需2秒鐘，不需手動下載安裝！</h3>
         <img
           class="showEl"
           src="@/assets/images/RPMTWUpdateMod/SpeedLoading.png"
@@ -89,7 +89,7 @@
           alt=""
         />
         <h2>圖形化設定界面</h2>
-        <h3>超多自訂化選項，不需手動修改檔案，輕鬆設定</h3>
+        <h3>超多自訂化選項，不需手動修改檔案，輕鬆設定！</h3>
         <img
           class="showEl"
           src="@/assets/images/RPMTWUpdateMod/gameUI.png"
@@ -103,7 +103,7 @@
         />
         <h2>
           <strong style="color: var(--title-color)"
-            >之後會陸續支援更多功能喔，敬啟期待!</strong
+            >之後會陸續支援更多功能喔，敬請期待!</strong
           >
         </h2>
       </section>
