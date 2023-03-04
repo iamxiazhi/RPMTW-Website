@@ -12,9 +12,9 @@
         <p>
           請至 RPMTW 官方 Discord 群組的<a
             target="_blank"
-            href="https://discord.com/channels/815819580840607807/852389500733751337"
+            href="https://discord.com/channels/815819580840607807/1023131342617198624"
           >
-            ┣❓┃我要問問題 </a
+            ❓︱我想提問 </a
           >這個頻道尋求協助。。
         </p>
       </section>
