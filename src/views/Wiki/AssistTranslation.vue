@@ -7,7 +7,7 @@
           首先請先連到
           <a target="_blank" href="https://crowdin.com/">crowdin(點我)</a> 網站
           <br />
-          前往網站之後找到右上角的按鈕(如下圖)，選擇 「SING UP」(註冊)
+          前往網站之後找到右上角的按鈕(如下圖)，選擇 「SIGN UP」(註冊)
         </p>
         <img
           src="@/assets/images/Wiki/AssistTranslation/logIn-logOut.png"
